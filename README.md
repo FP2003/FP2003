@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Filip and I'm a Computer Science Graduate, from the University Of Leicester</h2>
+<h2 align="left">👋 Hi, My name is Filip and I'm a Computer Science Graduate.</h2>
 
 ###
 
