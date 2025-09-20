@@ -1,20 +1,17 @@
-<h2 align="left">👋 Hi, My name is Filip and I'm a Computer Science Graduate with 1st Class Honours.</h2>
+<h2 align="left">👋 My name is Filip and I'm a Computer Science Graduate.</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats-fp2003.vercel.app/api?username=FP2003&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats-fp2003.vercel.app/api/top-langs?username=FP2003&layout=compact&langs_count=5&theme=dracula" height="150" />
-</div>
+# Currently Learning
+- Golang (Baby steps)
+- Python (Don't think I'll stop)
+- Linux
 
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/gosling-sad-gosling-ryan-gosling-blade-runner-snow-gosling-snow-gif-6845320348811377304"  />
 
-###
-
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>Languages or Tools I've used</h2>
 <p><a target="_blank" href="https://dev.java/learn/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://devdocs.io/javascript/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://www.typescriptlang.org/docs/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
