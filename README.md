@@ -2,7 +2,7 @@
 
 ###
 
-# Currently Learning
+## Currently Learning
 - Golang (Baby steps)
 - Python (Don't think I'll stop)
 - Linux
