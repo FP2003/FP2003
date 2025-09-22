@@ -6,6 +6,7 @@
 - Golang (Baby steps)
 - Python (Don't think I'll stop)
 - Linux
+- JS (WebGL and other 3d rendering)
 
 
 ###
