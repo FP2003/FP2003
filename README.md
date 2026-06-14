@@ -1,12 +1,11 @@
-<h2 align="left">👋 My name is Filip and I'm a Computer Science Graduate.</h2>
+<h2 align="left">Support Developer, Quantspark, London Based.</h2>
 
 ###
 
-## Currently Learning
-- Golang (Baby steps)
-- Python (Don't think I'll stop)
-- Linux
-- JS (WebGL and other 3d rendering)
+## Deep in Learning
+- Neovim
+- AI workflows
+- Python
 
 
 ###
