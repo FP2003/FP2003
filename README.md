@@ -2,7 +2,7 @@
 
 ###
 
-## Deep in Learning
+#### Deep in Learning
 - Neovim
 - AI workflows
 - Python
