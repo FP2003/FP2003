@@ -1,4 +1,4 @@
-<h2 align="left">Software Developer, Quantspark, London Based.</h2>
+<h2 align="left">London</h2>
 
 ###
 
